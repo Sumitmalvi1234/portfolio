@@ -1,5 +1,5 @@
 // src/router.tsx
-import React from 'react';
+
 import { createBrowserRouter } from 'react-router';
 import App from './App';
 import Hero from './components/Hero';
